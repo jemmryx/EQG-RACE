@@ -1,4 +1,4 @@
-Data and code for paper "EQG-RACE: Examination-Type Question Generation" at AAAI2021.
+Data and code for paper "[EQG-RACE: Examination-Type Question Generation](https://arxiv.org/abs/2012.06106)" at AAAI2021.
 
 ## Data
 
