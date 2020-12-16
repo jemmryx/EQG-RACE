@@ -18,7 +18,7 @@ Comming soon......
 
 ## Cite
 
-If you extend or use this work, please cite the paper where it was introduced:
+If you extend or use this work, please cite the [paper](https://arxiv.org/abs/2012.06106) where it was introduced:
 
 ```
 @misc{jia2020eqgrace,
@@ -29,4 +29,5 @@ If you extend or use this work, please cite the paper where it was introduced:
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+
 ```
