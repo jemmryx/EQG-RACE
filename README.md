@@ -2,6 +2,8 @@ Data and code for paper "[EQG-RACE: Examination-Type Question Generation](https:
 
 ## Data
 
+EQG-RACE.tar.gz
+
 each sample contains
 + sent:splited paragraph
 + question
