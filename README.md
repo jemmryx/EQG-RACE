@@ -1,1 +1,3 @@
-# EQG-RACE
+Data and code for paper "EQG-RACE: Examination-Type Question Generation" at AAAI2021.
+
+Comming soon......
