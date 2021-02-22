@@ -15,8 +15,7 @@ each sample contains
 
 ## Code 
 
-Comming soon......
-
+The unified model (without using pretrained elmo/bert) is uploaded.
 
 ## Cite
 
