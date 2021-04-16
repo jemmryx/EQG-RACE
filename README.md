@@ -1,6 +1,6 @@
 Data and code for paper "[EQG-RACE: Examination-Type Question Generation](https://arxiv.org/abs/2012.06106)" at AAAI2021.
 
-## Data
+## Pure Dataset
 
 EQG-RACE.tar.gz
 
@@ -12,10 +12,14 @@ each sample contains
 + rouge: max rough score
 + tag: key sentence tag
 
+## Processed Dataset
+race.tar.gz
+
+contains the processed train/dev/test data and corresponding adjacency matrix
 
 ## Code 
 
-The unified model (without using pretrained elmo/bert) is uploaded.
+The unified model (without using pretrained elmo/bert) is uploaded (flaten version).
 
 ## Cite
 
