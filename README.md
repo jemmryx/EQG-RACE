@@ -23,16 +23,14 @@ The unified model (without using pretrained elmo/bert) is uploaded (flaten versi
 
 ## Cite
 
-If you extend or use this work, please cite the [paper](https://arxiv.org/abs/2012.06106) where it was introduced:
+If you extend or use this work, please cite the [paper](https://www.semanticscholar.org/paper/EQG-RACE%3A-Examination-Type-Question-Generation-Jia-Zhou/f84b531135acc19191310537065a804c00814cdd) where it was introduced:
 
 ```
-@misc{jia2020eqgrace,
-      title={EQG-RACE: Examination-Type Question Generation}, 
-      author={Xin Jia and Wenjie Zhou and Xu Sun and Yunfang Wu},
-      year={2020},
-      eprint={2012.06106},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{Jia2021EQGRACEEQ,
+  title={EQG-RACE: Examination-Type Question Generation},
+  author={Xin Jia and Wenjie Zhou and Xu Sun and Yunfang Wu},
+  booktitle={AAAI},
+  year={2021}
 }
 
 ```
