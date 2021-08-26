@@ -1,4 +1,4 @@
-Data and code for paper "[EQG-RACE: Examination-Type Question Generation](https://arxiv.org/abs/2012.06106)" at AAAI2021.
+Data and code for paper "[EQG-RACE: Examination-Type Question Generation](https://www.semanticscholar.org/paper/EQG-RACE%3A-Examination-Type-Question-Generation-Jia-Zhou/f84b531135acc19191310537065a804c00814cdd)" at AAAI2021.
 
 ## Pure Dataset
 
